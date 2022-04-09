@@ -142,14 +142,14 @@ a:hover{
     margin-right: 0;
   }
   #level-title{
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
   .button{
     height: 120px;
     width: 120px;
   }
   p{
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 }
 
