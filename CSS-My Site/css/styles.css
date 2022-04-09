@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 0 auto 0 auto;
+  padding: 40px 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding: 20px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p{
+    line-height: 2;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 80px;
+}
+
+.middle-container{
+}
+
+.profile{
+  width: 50%;
+  margin: 50px auto;
+  padding-bottom: 50px;
+}
+
+.skills{
+  margin: 50px auto;
+}
+
+#testimonial-carousel{
+  padding: 50px 0;
+  width: 70%;
+  margin: auto;
+}
+.contact-me{
+  margin: 80px auto;
+}
+
+.contact-message{
+  width: 40%;
+  margin:30px auto 50px auto;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 10px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  text-align: justify;
+}
+
+.profile-image{
+  width: 25%;
+}
+
+.carousel-item{
+  padding: 5% 15% 5% 15%;
+}
+
+.testimonial-text{
+  font-size: 1rem;
+  text-align: justify;
+}
+
+.testimonial-image{
+  width: 20%;
+  margin: 45px;
+}
+
+.fab{
+  color: black;
+}
+
+@media (max-width: 1000px) {
+  .heading-name{
+    font-size: 3.5rem;
+  }
+  .heading-about{
+    font-size: 1.5rem;
+  }
+}

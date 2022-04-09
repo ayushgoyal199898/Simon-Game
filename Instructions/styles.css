@@ -1,0 +1,54 @@
+body{
+  background-color: #E4F9F5;
+  text-align: center;
+}
+
+h1{
+  font-size: 5rem;
+  margin: 0 auto 0 auto;
+  padding: 40px 0;
+  font-family: 'Sacramento', cursive;
+  color: white;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+  color: #66BFBF;
+  padding: 20px;
+}
+
+.title{
+  background-color: #95D1CC;
+  padding: 5px 50px 2px 50px;
+}
+
+.content{
+  width: 70%;
+  padding: 50px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin-top: 100px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 10px 0;
+}
+
+.fab{
+  color: black;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px
+}
+
+a:hover{
+  color: #EAF6F6;
+}
